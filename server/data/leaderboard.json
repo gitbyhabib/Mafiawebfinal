@@ -1,0 +1,90 @@
+{
+  "topBosses": [
+    {
+      "name": "Don Vito",
+      "score": 9821
+    },
+    {
+      "name": "Lucia Noir",
+      "score": 9510
+    },
+    {
+      "name": "Salvatore",
+      "score": 9320
+    },
+    {
+      "name": "Marla 'The Knife'",
+      "score": 9102
+    },
+    {
+      "name": "Giorgio",
+      "score": 8990
+    }
+  ],
+  "topCrews": [
+    {
+      "name": "Black Serpents",
+      "score": 17432
+    },
+    {
+      "name": "Iron Cartel",
+      "score": 16890
+    },
+    {
+      "name": "Night Ravens",
+      "score": 16220
+    },
+    {
+      "name": "Silver Fist",
+      "score": 15110
+    },
+    {
+      "name": "La Cosa",
+      "score": 14900
+    }
+  ],
+  "richestPlayers": [
+    {
+      "name": "Scar Leone",
+      "score": 1200000
+    },
+    {
+      "name": "MoneyMitch",
+      "score": 980000
+    },
+    {
+      "name": "Goldfinger",
+      "score": 760000
+    },
+    {
+      "name": "Cashmere",
+      "score": 710000
+    },
+    {
+      "name": "VaultKing",
+      "score": 690000
+    }
+  ],
+  "mostWanted": [
+    {
+      "name": "Rico Blood",
+      "score": 73
+    },
+    {
+      "name": "Vega",
+      "score": 68
+    },
+    {
+      "name": "The Surgeon",
+      "score": 61
+    },
+    {
+      "name": "Red Tommy",
+      "score": 59
+    },
+    {
+      "name": "Shade",
+      "score": 55
+    }
+  ]
+}
