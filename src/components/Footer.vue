@@ -34,7 +34,7 @@ const links = [
   { name: 'Features', href: '#features' },
   { name: 'Screenshots', href: '#screenshots' },
   { name: 'FAQ', href: '#faq' },
-  { name: 'Leaderboard', href: '#leaderboard' },
+/*   { name: 'Leaderboard', href: '#leaderboard' }, */
   { name: 'Download', href: '#download' },
   { name: 'Contact', href: '#contact' },
 ]

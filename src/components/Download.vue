@@ -13,7 +13,7 @@
         
         <!-- Android -->
         <a 
-          href="#"
+          href="https://play.google.com/store/apps/details?id=com.mafiasrivals&hl=en"
           class="flex items-center gap-3 bg-gray-900 hover:bg-yellow-600 text-yellow-600 hover:text-black font-bold px-6 py-4 rounded-2xl shadow-lg transform transition duration-300 hover:scale-105"
         >
           <i class="fab fa-android text-2xl"></i>

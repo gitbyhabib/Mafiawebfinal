@@ -5,7 +5,7 @@
     <Features />
     <Screenshots />
     <FAQ />
-    <Leaderboard />
+<!--     <Leaderboard /> -->
     <Download />
     <Contact />
     <Footer />
