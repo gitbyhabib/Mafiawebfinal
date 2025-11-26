@@ -14,9 +14,9 @@
           <a href="#download" class="bg-red-700 hover:bg-yellow-600 transition text-black font-bold py-3 px-6 rounded-lg">
             Download Now
           </a>
-          <a href="#leaderboard" class="border-2 border-yellow-600 hover:bg-yellow-600 hover:text-black transition text-yellow-600 font-bold py-3 px-6 rounded-lg">
+        <!--   <a href="#leaderboard" class="border-2 border-yellow-600 hover:bg-yellow-600 hover:text-black transition text-yellow-600 font-bold py-3 px-6 rounded-lg">
             Leaderboard
-          </a>
+          </a> -->
         </div>
       </div>
 
