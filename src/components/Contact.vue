@@ -19,14 +19,14 @@
             <span>support@mafiasrival.com</span>
           </div>
 
-          <div class="flex items-center gap-3">
+   <!--        <div class="flex items-center gap-3">
             <i class="fas fa-phone-alt text-red-700 w-6"></i>
             <span>+1 234 567 890</span>
-          </div>
+          </div> -->
 
           <div class="flex items-center gap-3">
             <i class="fas fa-map-marker-alt text-red-700 w-6"></i>
-            <span>Mafia Street, </span>
+            <span>Mafia Street</span>
           </div>
 
           <!-- Social Links -->
