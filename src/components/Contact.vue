@@ -31,7 +31,7 @@
 
           <!-- Social Links -->
           <div class="flex gap-4 mt-4 text-2xl">
-            <a href="#" target="_blank" class="hover:text-yellow-600 transition">
+            <a href="https://www.facebook.com/mafiasrivalgame/" target="_blank" class="hover:text-yellow-600 transition">
               <i class="fab fa-facebook-f"></i>
             </a>
             <a href="#" target="_blank" class="hover:text-yellow-600 transition">
