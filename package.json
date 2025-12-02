@@ -5,7 +5,9 @@
   "scripts": {
     "dev:vite": "vite",
     "dev:server": "node server/index.cjs",
-    "dev": "concurrently \"npm run dev:vite\" \"npm run dev:server\""
+    "dev": "concurrently \"npm run dev:vite\" \"npm run dev:server\"",
+     "build": "npm run build:client",
+    "build:client": "vite build"
   },
   "dependencies": {
     "@heroicons/vue": "^2.2.0",
