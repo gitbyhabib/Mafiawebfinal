@@ -26,7 +26,7 @@
 
           <div class="flex items-center gap-3">
             <i class="fas fa-map-marker-alt text-red-700 w-6"></i>
-            <span>123 Mafia Street, Crime City, NY</span>
+            <span>Mafia Street, </span>
           </div>
 
           <!-- Social Links -->
